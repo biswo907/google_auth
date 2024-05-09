@@ -1,0 +1,29 @@
+{
+    "project_info": {
+      "project_number": "442539416975",
+      "project_id": "login-cde53",
+      "storage_bucket": "login-cde53.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:442539416975:android:dc199e8c8c8136eebd3ffa",
+          "android_client_info": {
+            "package_name": "com.prakash8990.googleauth"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyA6w3CT21IiLaWGxip3riGVvIcNc6NxZuw"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
